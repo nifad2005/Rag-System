@@ -1,0 +1,831 @@
+PENGUIN	BOOKS
+An	imprint	of	Penguin	Random	House	LLC
+375	Hudson	Street
+New	York,	New	York	10014
+penguin.com
+Copyright	©	2016	by	Héctor	García	and	Francesc	Miralles	Translation	copyright	©	2017	by	Penguin	Random	House	LLC
+Penguin	supports	copyright.	Copyright	fuels	creativity,	encourages	diverse	voices,	promotes	free	speech,	and	creates	a	vibrant	culture.
+Thank	you	for	buying	an	authorized	edition	of	this	book	and	for	complying	with	copyright	laws	by	not	reproducing,	scanning,	or
+distributing	any	part	of	it	in	any	form	without	permission.	You	are	supporting	writers	and	allowing	Penguin	to	continue	to	publish	books
+for	every	reader.
+Originally	published	in	Spanish	as	
+Ikigai:	Los	secretos	de	Japón	para	una	vida	larga	y	feliz
+	by	Ediciones	Urano,	Barcelona.
+Illustration	
+here
+:	Abbie/Shutterstock	All	other	illustrations	copyright	©	2016	by	Marisa	Martínez	Graphics	copyright	©	2016	by	Flora
+Buki
+LIBRARY	OF	CONGRESS	CATALOGING-IN-PUBLICATION	DATA
+	Names:	García,	Héctor,	1981–	author.	|	Miralles,	Francesc,	1968–	author.
+Title:	Ikigai	:	the	Japanese	secret	to	a	long	and	happy	life	/	Héctor	García	and	Francesc	Miralles	;	translated	by	Heather	Cleary.
+Other	titles:	Ikigai.	English
+Description:	New	York	:	Penguin	Books,	[2017]	|	Originally	published	in	Spanish	as	“Ikigai:	Los	secretos	de	Japón	para	una	vida	larga	y
+feliz”	by	Ediciones	Urano	in	2016."	|	Includes	bibliographical	references.	|	Description	based	on	print	version	record	and	CIP	data
+provided	by	publisher;	resource	not	viewed.
+Identifiers:	LCCN	2017005811	(print)	|	LCCN	2017022599	(ebook)	|	ISBN	9781524704551	(ebook)	|	ISBN	9780143130727
+(hardcover)	Subjects:	LCSH:	Longevity—Japan.	|	Longevity.	|	Happiness.	|	Quality	of	life	Classification:	LCC	RA776.75	(ebook)	|	LCC
+RA776.75	.G3713	2017	(print)	|	DDC	613—dc23
+LC	record	available	at	https://lccn.loc.gov/2017005811
+Neither	the	publisher	nor	the	author	is	engaged	in	rendering	professional	advice	or	services	to	the	individual	reader.	The	ideas,
+procedures,	and	suggestions	contained	in	this	book	are	not	intended	as	a	substitute	for	consulting	with	your	physician.	All	matters
+regarding	your	health	require	medical	supervision.	Neither	the	author	nor	the	publisher	shall	be	liable	or	responsible	for	any	loss	or
+damage	allegedly	arising	from	any	information	or	suggestion	in	this	book.
+While	the	author	has	made	every	effort	to	provide	accurate	telephone	numbers,	Internet	addresses,	and	other	contact	information	at	the
+time	of	publication,	neither	the	publisher	nor	the	author	assumes	any	responsibility	for	errors	or	for	changes	that	occur	after	publication.
+Further,	the	publisher	does	not	have	any	control	over	and	does	not	assume	any	responsibility	for	author	or	third-party	Web	sites	or	their
+content.
+Cover	illustration	by	Olga	Grlic
+Cover	art	direction	by	Roseanne	Serra
+Version_2For	my	brother,	Aitor,
+who’s	said	to	me	more	often	than	anyone	else,
+“I	don’t	know	what	to	do	with	my	life.”
+—H
+ÉCTOR	
+G
+ARCÍA
+For	all	my	past,	present,	and	future	friends,
+for	being	my	home	and	my	motivation	along
+the	way.
+—F
+RANCES
+C	
+M
+IRALLESOnly	staying	active	will	make	you	want	to	live	a	hundred	years.
+—Japanese	
+proverbCONTENTS
+Title	Page
+Copyright
+Dedication
+Epigraph
+Prologue
+Ikigai
+:	A	mysterious	word
+I.	
+Ikigai
+The	art	of	staying	young	while	growing	old
+II.	Antiaging	Secrets
+Little	things	that	add	up	to	a	long	and	happy	life
+III.	From	Logotherapy	to	
+Ikigai
+How	to	live	longer	and	better	by	finding	your	purpose
+IV.	Find	Flow	in	Everything	You	Do
+How	to	turn	work	and	free	time	into	spaces	for	growth
+V.	Masters	of	Longevity
+Words	of	wisdom	from	the	longest-living	people	in	the	worldVI.	Lessons	from	Japan’s	Centenarians
+Traditions	and	proverbs	for	happiness	and	longevity
+VII.	The	
+Ikigai
+	Diet
+What	the	world’s	longest-living	people	eat	and	drink
+VIII.	Gentle	Movements,	Longer	Life
+Exercises	from	the	East	that	promote	health	and	longevity
+IX.	Resilience	and	
+Wabi-sabi
+How	to	face	life’s	challenges	without	letting	stress	and	worry	age	you
+Epilogue
+Ikigai
+:	The	art	of	living
+Notes
+Suggestions	for	further	reading
+About	the	AuthorsPROLOGUE
+Ikigai
+:	A	mysterious	word
+T
+HIS	BOOK	FIRST	
+came	into	being	on	a	rainy	night	in	Tokyo,	when	its	authors	sat
+down	together	for	the	first	time	in	one	of	the	city’s	tiny	bars.
+We	had	read	each	other’s	work	but	had	never	met,	thanks	to	the	thousands	of
+miles	that	separate	Barcelona	from	the	capital	of	Japan.	Then	a	mutual
+acquaintance	put	us	in	touch,	launching	a	friendship	that	led	to	this	project	and
+seems	destined	to	last	a	lifetime.
+The	next	time	we	got	together,	a	year	later,	we	strolled	through	a	park	in
+downtown	Tokyo	and	ended	up	talking	about	trends	in	Western	psychology,
+specifically	logotherapy,	which	helps	people	find	their	purpose	in	life.
+We	remarked	that	Viktor	Frankl’s	logotherapy	had	gone	
+out	of	fashion	among
+practicing	therapists,	who	favored	other	schools	of	psychology,	though	people
+still	search	for	meaning	in	what	they	do	and	how	they	live.	We	ask	ourselves
+things	like:
+What	is	the	meaning	of	my	life?
+Is	the	point	just	to	live	longer,	or	should	I	seek	a	higher	purpose?
+Why	do	some	people	know	what	they	want	and	have	a	passion	for	life,	while
+others	languish	in	confusion?
+At	some	point	in	our	conversation,	the	mysterious	word	
+ikigai
+	came	up.
+This	Japanese	concept,	which	translates	roughly	as	“the	happiness	of	always
+being	busy,”	is	like	logotherapy,	but	it	goes	a	step	beyond.	It	also	seems	to	be	one
+way	of	explaining	the	extraordinary	longevity	of	the	Japanese,	especially	on	the
+island	of	Okinawa,	where	there	are	24.55	people	over	the	age	of	100	for	every
+100,000	inhabitants—far	more	than	the	global	average.
+Those	who	study	why	the	inhabitants	of	this	island	in	the	south	of	Japan	live
+longer	than	people	anywhere	else	in	the	world	believe	that	one	of	the	keys—inaddition	to	a	healthful	diet,	a	simple	life	in	the	outdoors,	green	tea,	and	the
+subtropical	climate	(its	average	temperature	is	like	that	of	Hawaii)—is	the	
+ikigai
+that	shapes	their	lives.
+While	researching	this	concept,	we	discovered	that	not	a	single	book	in	the
+fields	of	psychology	or	personal	development	is	dedicated	to	bringing	this
+philosophy	to	the	West.
+Is	
+ikigai
+	the	reason	there	are	more	centenarians	in	Okinawa	than	anywhere
+else?	How	does	it	inspire	people	to	stay	active	until	the	very	end?	What	is	the
+secret	to	a	long	and	happy	life?
+As	we	explored	the	matter	further,	we	discovered	that	one	place	in	particular,
+Ogimi,	a	rural	town	on	the	north	end	of	the	island	with	a	population	of	three
+thousand,	boasts	the	highest	life	expectancy	in	the	world—a	fact	that	has	earned
+it	the	nickname	the	Village	of	Longevity.
+Okinawa	is	where	most	of	Japan’s	
+shikuwasa
+—a	limelike	fruit	that	packs	an
+extraordinary	antioxidant	punch—comes	from.	Could	that	be	Ogimi’s	secret	to
+long	life?	Or	is	it	the	purity	of	the	water	used	to	brew	its	Moringa	tea?
+We	decided	to	go	study	the	secrets	of	the	Japanese	centenarians	in	person.
+After	a	year	of	preliminary	research	we	arrived	in	the	village—where	residents
+speak	an	ancient	dialect	and	practice	an	animist	religion	that	features	long-haired
+forest	sprites	called	bunagaya—with	our	cameras	and	recording	devices	in	hand.
+As	soon	as	we	arrived	we	could	sense	the	incredible	friendliness	of	its	residents,
+who	laughed	and	joked	incessantly	amid	lush	green	hills	fed	by	crystalline	waters.
+As	we	conducted	our	interviews	with	the	eldest	residents	of	the	town,	we
+realized	that	something	far	more	powerful	than	just	these	natural	resources	was	at
+work:	an	uncommon	joy	flows	from	its	inhabitants	and	guides	them	through	the
+long	and	pleasurable	journey	of	their	lives.
+Again,	the	mysterious	
+ikigai
+.
+But	what	is	it,	exactly?	How	do	you	get	it?
+It	never	ceased	to	surprise	us	that	this	haven	of	nearly	eternal	life	was	located
+precisely	in	Okinawa,	where	two	hundred	thousand	innocent	lives	were	lost	at	the
+end	of	World	War	II.	Rather	than	harbor	animosity	toward	outsiders,	however,
+Okinawans	live	by	the	principle	of	
+ichariba	chode
+,	a	local	expression	that	means
+“treat	everyone	like	a	brother,	even	if	you’ve	never	met	them	before.”
+It	turns	out	that	one	of	the	secrets	to	happiness	of	Ogimi’s	residents	is	feeling
+like	part	of	a	community.	From	an	early	age	they	practice	
+yuimaaru
+,	or
+teamwork,	and	so	are	used	to	helping	one	another.Nurturing	friendships,	eating	light,	getting	enough	rest,	and	doing	regular,
+moderate	exercise	are	all	part	of	the	equation	of	good	health,	but	at	the	heart	of
+the	joie	de	vivre	that	inspires	these	centenarians	to	keep	celebrating	birthdays	and
+cherishing	each	new	day	is	their	
+ikigai
+.
+The	purpose	of	this	book	is	to	bring	the	secrets	of	Japan’s	
+centenarians	to	you
+and	give	you	the	tools	to	find	your	own	
+ikigai
+.
+Because	those	who	discover	their	
+ikigai
+	have	everything	they	need	for	a	long
+and	joyful	journey	through	life.
+Happy	travels!
+H
+ÉCTOR	
+G
+ARCÍA	AND	
+F
+R
+ANCESC	M
+IRALLESI
+IKIGAI
+The	art	of	staying	young	while
+growing	
+oldWhat	is	your	reason	for	being?
+According	to	the	Japanese,	everyone	has	an	
+ikigai
+—what	a	French	philosopher
+might	call	a	raison	d’être.	Some	people	have	found	their	
+ikigai
+,	while	others	are
+still	looking,	though	they	carry	it	within	them.
+Our	
+ikigai	
+is	hidden	deep	inside	each	of	us,	and	finding	it	requires	a	patient
+search.	According	to	those	born	on	Okinawa,	the	island	with	the	most
+centenarians	in	the	world,	our	
+ikigai	
+is	the	reason	we	get	up	in	the	morning
+.
+Whatever	you	do,	don’t	retire!
+Having	a	clearly	defined	
+ikigai
+	brings	satisfaction,	happiness,	and	meaning	to	our
+lives.	The	purpose	of	this	book	is	to	help	you	find	yours,	and	to	share	insights
+from	Japanese	philosophy	on	the	lasting	health	of	body,	mind,	and	spirit.
+One	surprising	thing	you	notice,	living	in	Japan,	is	how	active	people	remain
+after	they	retire.	In	fact,	many	Japanese	people	never	really	retire—they	keep
+doing	what	they	love	for	as	long	as	their	health	allows.
+There	is,	in	fact,	no	word	in	Japanese	that	means	
+retire
+	in	the	sense	of	“leaving
+the	workforce	for	good”	as	in	English.	According	to	Dan	Buettner,	a	
+National
+Geographic	
+reporter	who	knows	the	country	well,	having	a	purpose	in	life	is	so
+important	in	Japanese	culture	that	our	idea	of	retirement	simply	doesn’t	exist
+there.
+The	island	of	(almost)	eternal	youth
+Certain	longevity	studies	suggest	that	a	strong	sense	of	community	and	a	clearly
+defined	
+ikigai
+	are	just	as	important	as	the	famously	healthful	Japanese	diet—
+perhaps	even	more	so.	Recent	medical	studies	of	centenarians	from	Okinawa	
+and
+other	so-called	Blue	Zones—the	geographic	regions	where	people	live	longest—
+provide	a	number	of	interesting	facts	about	these	extraordinary	human	beings:
+Not	only	do	they	live	much	longer	than	the	rest	of	the	world’s	population,
+they	also	suffer	from	fewer	chronic	illnesses	such	as	cancer	and	heart
+disease;	inflammatory	disorders	are	also	less	common.
+Many	of	these	centenarians	enjoy	enviable	levels	of	vitality	and	health	that
+would	be	unthinkable	for	people	of	advanced	age	elsewhere.
+Their	blood	tests	reveal	fewer	free	radicals	(which	are	responsible	for
+cellular	aging),	as	a	result	of	drinking	tea	and	eating	until	their	stomachs	are
+only	80	percent	full.
+Women	experience	more	moderate	symptoms	during	menopause,	and	both
+men	and	women	maintain	higher	levels	of	sexual	hormones	until	much	later
+in	life.
+The	rate	of	dementia	is	well	below	the	global	average.The	Characters	Behind	
+Ikigai
+In	Japanese,	
+ikigai	
+is	written	as	
+生き甲斐
+,	combining	
+生き
+,	which	means
+“life,”	with	
+甲斐
+,	which	means	“to	be	worthwhile.”	
+甲斐
+	can	be	broken
+down	into	the	
+characters	
+甲
+,	which	means	“armor,”	“number	one,”	and	“to
+be	the	first”	(to	head	into	battle,	taking	initiative	as	a	leader),	and	
+斐
+,
+which	means	“beautiful”	or	“elegant.”
+Though	we	will	consider	each	of	these	findings	over	the	course	of	the	book,
+research	clearly	indicates	that	the	Okinawans’	focus	on	
+ikigai
+	gives	a	sense	of
+purpose	to	each	and	every	day	and	plays	an	important	role	in	their	health	and
+longevity.
+The	five	Blue	Zones
+Okinawa	holds	first	place	among	the	world’s	Blue	Zones.	In	Okinawa,	women	in
+particular	live	longer	and	have	fewer	diseases	than	anywhere	else	in	the	world.
+The	five	regions	identified	and	analyzed	by	Dan	Buettner	in	his	book	
+The	Blue
+Zones
+	are:
+1.	
+Okinawa,	Japan
+	(especially	the	northern	part	of	the	island).	The	locals	eat	a
+diet	rich	in	vegetables	and	tofu	typically	served	on	small	plates.	In	addition	to
+their	philosophy	of	
+ikigai
+,	the	
+moai
+,	or	close-knit	group	of	friends	(see	page
+15),	plays	an	important	role	in	their	longevity.
+2.	
+Sardinia,	Italy
+	(specifically	the	provinces	of	Nuoro	and	Ogliastra).	Locals	on
+this	island	consume	plenty	of	vegetables	and	one	or	two	glasses	of	wine	per
+day.	As	in	Okinawa,	the	
+cohesive	nature	of	this	community	is	another	factor
+directly	related	to	longevity.
+3.	
+Loma	Linda,	California
+.	Researchers	studied	a	group	of	Seventh-day
+Adventists	who	are	among	the	longest-living	people	in	the	United	States.
+4.	
+The	Nicoya	Peninsula,	Costa	Rica
+.	Locals	remain	remarkably	active	after
+ninety;	many	of	the	region’s	older	residents	have	no	problem	getting	up	at
+five	thirty	in	the	morning	to	work	in	the	fields.5.	
+Ikaria,	Greece
+.	One	of	every	three	inhabitants	of	this	island	near	the	coast	of
+Turkey	is	over	ninety	years	old	(compared	to	less	than	1	percent	of	the
+population	of	the	United	States),	a	fact	that	has	earned	it	the	nickname	the
+Island	of	Long	Life.	The	local	secret	seems	to	be	a	lifestyle	that	dates	back	to
+500	BC.
+In	the	following	chapters,	we	will	examine	several	factors	that	seem	to	be	the
+keys	to	longevity	and	are	found	across	the	Blue	Zones,	paying	special	attention	to
+Okinawa	and	its	so-called	Village	of	Longevity.	First,	however,	it	is	worth
+pointing	out	that	three	of	these	regions	are	islands,	where	resources	can	be	scarce
+and	communities	have	to	help	one	another.
+For	many,	helping	others	might	be	an	
+ikigai
+	strong	enough	to	keep	them	alive.
+According	to	scientists	who	have	studied	the	five	Blue	Zones,	
+the	keys	to
+longevity	are	diet,	exercise,	finding	a	purpose	in	life	(an	
+ikigai
+),	and	forming
+strong	social	ties—that	is,	having	a	broad	circle	of	friends	and	good	family
+relations.
+Members	of	these	communities	manage	their	time	well	in	order	to	reduce
+stress,	consume	little	meat	or	processed	foods,	and	drink	alcohol	in	moderation.
+1
+They	don’t	do	strenuous	exercise,	but	they	do	move	every	day,	taking	walks
+and	working	in	their	vegetable	gardens.	People	in	the	Blue	Zones	would	rather
+walk	than	drive.	Gardening,	which	involves	daily	low-intensity	movement,	is	a
+practice	almost	all	of	them	have	in	common.
+The	80	percent	secret
+One	of	the	most	common	sayings	in	Japan	is	“Hara	hachi	bu,”	which	is	repeated
+before	or	after	eating	and	means	something	like	“Fill	your	belly	to	80	percent.”
+Ancient	wisdom	advises	against	eating	until	we	are	full.	This	is	why	Okinawans
+stop	eating	when	they	feel	their	stomachs	reach	80	percent	of	their	capacity,
+rather	than	overeating	and	wearing	down	their	bodies	with	long	digestive
+processes	that	accelerate	cellular	oxidation.
+Of	course,	there	is	no	way	to	know	objectively	if	your	stomach	is	at	80
+percent	capacity.	The	lesson	to	learn	from	this	saying	is	that	we	should	stop	eating
+when	we	are	starting	
+to	feel	full.	The	extra	side	dish,	the	snack	we	eat	when	we
+know	in	our	hearts	we	don’t	really	need	it,	the	apple	pie	after	lunch—all	these	willgive	us	pleasure	in	the	short	term,	but	not	having	them	will	make	us	happier	in
+the	long	term.
+The	way	food	is	served	is	also	important.	By	presenting	their	meals	on	many
+small	plates,	the	Japanese	tend	to	eat	less.	A	typical	meal	in	a	restaurant	in	Japan
+is	served	in	five	plates	on	a	tray,	four	of	them	very	small	and	the	main	dish
+slightly	bigger.	Having	five	plates	in	front	of	you	makes	it	seem	like	you	are
+going	to	eat	a	lot,	but	what	happens	most	of	the	time	is	that	you	end	up	feeling
+slightly	hungry.	This	is	one	of	the	reasons	why	Westerners	in	Japan	typically	lose
+weight	and	stay	trim.
+Recent	studies	by	nutritionists	reveal	that	Okinawans	consume	a	daily	average
+of	1,800	to	1,900	calories,	compared	to	2,200	to	3,300	in	the	United	States,	and
+have	a	body	mass	index	between	18	and	22,	compared	to	26	or	27	in	the	United
+States.
+The	Okinawan	diet	is	rich	in	tofu,	sweet	potatoes,	fish	(three	times	per	week),
+and	vegetables	(roughly	11	ounces	per	day).	In	the	chapter	dedicated	to	nutrition
+we	will	see	which	healthy,	antioxidant-rich	foods	are	included	in	this	80	percent.
+Moai
+:	Connected	for	life
+It	is	customary	in	Okinawa	to	form	close	bonds	within	local	communities.	A	
+moai
+is	an	informal	group	of	people	with	
+common	interests	who	look	out	for	one
+another.	For	many,	serving	the	community	becomes	part	of	their	
+ikigai
+.
+The	
+moai
+	has	its	origins	in	hard	times,	when	farmers	would	get	together	to
+share	best	practices	and	help	one	another	cope	with	meager	harvests.
+Members	of	a	
+moai
+	make	a	set	monthly	contribution	to	the	group.	This
+payment	allows	them	to	participate	in	meetings,	dinners,	games	of	go	and	
+shogi
+(Japanese	chess),	or	whatever	hobby	they	have	in	common.
+The	funds	collected	by	the	group	are	used	for	activities,	but	if	there	is	money
+left	over,	one	member	(decided	on	a	rotating	basis)	receives	a	set	amount	from
+the	surplus.	In	this	way,	being	part	of	a	
+moai	
+helps	maintain	emotional	and
+financial	stability.	If	a	member	of	a	
+moai
+	is	in	financial	trouble,	he	or	she	can	get
+an	advance	from	the	group’s	savings.	While	the	details	of	each	
+moai
+’s	accounting
+practices	vary	according	to	the	group	and	its	economic	means,	the	feeling	of
+belonging	and	support	gives	the	individual	a	sense	of	security	and	helps	increase
+life	expectancy.•			•			•
+F
+OLLOWING	THIS	BRIEF
+	introduction	to	the	topics	covered	in	this	book,	we	look	at
+a	few	causes	of	premature	aging	in	modern	life,	and	then	explore	different
+factors	related	to	
+ikigai
+.II
+ANTIAGING	SECRETS
+Little	things	that	add	up	to	a	long
+and	happy	
+lifeAging’s	escape	velocity
+For	more	than	a	century,	we’ve	managed	to	add	an	average	of	0.3	years	to	our	life
+expectancy	every	year.	But	what	would	happen	if	we	had	the	technology	to	add	a
+year	of	life	expectancy	every	year?	In	theory,	we	would	achieve	biological
+immortality,	having	reached	aging’s	“escape	velocity.”
+Aging’s	Escape	Velocity	and	the	Rabbit
+Imagine	a	sign	far	off	in	the	future	with	a	number	on	it	that
+represents	the	age	of	your	death.	Every	year	that	you	live,
+you	advance	closer	to	the	sign.	When	you	reach	the	sign,	you	die.
+Now	imagine	a	rabbit	holding	the	sign	and	walking	to	the	future.	Every
+year	that	you	live,	the	rabbit	is	half	a	year	as	far	away.	After	a	while,	you
+will	reach	the	rabbit	and	die.
+But	what	if	the	rabbit	could	walk	at	a	pace	of	one	year	for	every	year
+of	your	life?	You	would	never	be	able	to	catch	the	rabbit,	and	therefore
+you	would	never	die.
+The	speed	at	which	the	rabbit	walks	to	the	future	is	our	technology.
+The	more	we	advance	technology	and	knowledge	of	our	bodies,	the	faster
+we	can	make	the	rabbit	walk.
+Aging’s	escape	velocity	is	the	moment	at	which	the	rabbit	walks	at	a
+pace	of	one	year	per	year	or	faster,	and	we	become	immortal.
+Researchers	with	an	eye	to	the	future,	such	as	Ray	Kurzweil	and	Aubrey	de
+Grey,	claim	that	we’ll	reach	this	escape	velocity	in	a	matter	of	decades.	Other
+scientists	are	less	optimistic,	predicting	that	we’ll	reach	a	limit,	a	maximum	age
+we	won’t	be	able	to	surpass,	no	matter	how	much	technology	we	have.	For
+example,	some	biologists	assert	that	our	cells	stop	regenerating	after	about	120
+years.
+Active	mind,	youthful	body
+There	is	much	wisdom	in	the	classic	saying	“mens	sana	in	corpore	sano”	(“aThere	is	much	wisdom	in	the	classic	saying	“mens	sana	in	corpore	sano”	(“a
+sound	mind	in	a	sound	body”):	It	reminds	us	that	both	mind	and	body	are
+important,	and	that	the	health	of	one	is	connected	to	that	of	the	other.	It	has	been
+shown	that	maintaining	an	active,	adaptable	mind	is	one	of	the	key	factors	in
+staying	young.
+Having	a	youthful	mind	also	drives	you	toward	a	healthy	lifestyle	that	will
+slow	the	aging	process.
+Just	as	a	lack	of	physical	exercise	has	negative	effects	on	our	bodies	and
+mood,	a	lack	of	mental	exercise	is	bad	for	us	because	it	causes	our	neurons	and
+neural	connections	to	deteriorate—and,	as	a	result,	reduces	our	ability	to	react	to
+our	surroundings.
+This	is	why	it’s	so	important	to	give	your	brain	a	workout.
+One	pioneer	in	advocating	for	mental	exercise	is	the	
+Israeli	neuroscientist
+Shlomo	Breznitz,	who	argues	that	the	brain	needs	a	lot	of	stimulation	in	order	to
+stay	in	shape.	As	he	stated	in	an	interview	with	Eduard	Punset	for	the	Spanish
+television	program	
+Redes
+:
+There	is	a	tension	between	what	is	good	for	someone	and	what	they	want	to	do.	This	is	because	people,
+especially	older	people,	like	to	do	things	as	they’ve	always	done	them.	The	problem	is	that	when	the
+brain	develops	ingrained	habits,	it	doesn’t	need	to	think	anymore.	Things	get	done	quickly	and
+efficiently	on	automatic	pilot,	often	in	a	very	advantageous	way.	This	creates	a	tendency	to	stick	to
+routines,	and	the	only	way	of	breaking	these	is	to	confront	the	brain	with	new	information.
+1
+Presented	with	new	information,	the	brain	creates	new	connections	and	is
+revitalized.	This	is	why	it	is	so	important	to	expose	yourself	to	change,	even	if
+stepping	outside	your	comfort	zone	means	feeling	a	bit	of	anxiety.
+The	effects	of	mental	training	have	been	scientifically	demonstrated.
+According	to	Collins	Hemingway	and	Shlomo	Breznitz	in	their	book	
+Maximum
+Brainpower:	Challenging	the	Brain	for	Health	and	Wisdom
+,	mental	training	is
+beneficial	on	many	levels:	“You	begin	exercising	your	brain	by	doing	a	certain
+task	for	the	first	time,”	he	writes.	“And	at	first	it	seems	very	difficult,	but	as	you
+learn	how	to	do	it,	the	training	is	already	working.	The	
+second	time,	you	realize
+that	it’s	easier,	not	harder,	to	do,	because	you’re	getting	better	at	it.	This	has	a
+fantastic	effect	on	a	person’s	mood.	In	and	of	itself,	it	is	a	transformation	that
+affects	not	only	the	results	obtained,	but	also	his	or	her	self-image.”
+This	description	of	a	“mental	workout”	might	sound	a	bit	formal,	but	simply
+interacting	with	others—playing	a	game,	for	example—offers	new	stimuli	and
+helps	prevent	the	depression	that	can	come	with	solitude.
+Our	neurons	start	to	age	while	we	are	still	in	our	twenties.	This	process	isOur	neurons	start	to	age	while	we	are	still	in	our	twenties.	This	process	is
+slowed,	however,	by	intellectual	activity,	curiosity,	and	a	desire	to	learn.	Dealing
+with	new	situations,	learning	something	new	every	day,	playing	games,	and
+interacting	with	other	people	seem	to	be	essential	antiaging	strategies	for	the
+mind.	Furthermore,	a	more	positive	outlook	in	this	regard	will	yield	greater
+mental	benefits.
+Stress:	Accused	of	killing	longevity
+Many	people	seem	older	than	they	are.	Research	into	the	causes	of	premature
+aging	has	shown	that	stress	has	a	lot	to	do	with	it,	because	the	body	wears	down
+much	faster	during	periods	of	crisis.	The	American	Institute	of	Stress
+investigated	this	degenerative	process	and	concluded	that	
+most	health	problems
+are	caused	by	stress.
+Researchers	at	the	Heidelberg	University	Hospital	conducted	a	study	in	which
+they	subjected	a	young	doctor	to	a	job	interview,	which	they	made	even	more
+stressful	by	forcing	him	to	solve	complex	math	problems	for	thirty	minutes.
+Afterward,	they	took	a	blood	sample.	What	they	discovered	was	that	his
+antibodies	had	reacted	to	stress	the	same	way	they	react	to	pathogens,	activating
+the	proteins	that	trigger	an	immune	response.	The	problem	is	that	this	response
+not	only	neutralizes	harmful	agents,	it	also	damages	healthy	cells,	leading	them	to
+age	prematurely.
+The	University	of	California	conducted	a	similar	study,	taking	data	and
+samples	from	thirty-nine	women	who	had	high	levels	of	stress	due	to	the	illness
+of	one	of	their	children	and	comparing	them	to	samples	from	women	with
+healthy	children	and	low	levels	of	stress.	They	found	that	stress	promotes	cellular
+aging	by	weakening	cell	structures	known	as	telomeres,	which	affect	cellular
+regeneration	and	how	our	cells	age.	As	the	study	revealed,	the	greater	the	stress,
+the	greater	the	degenerative	effect	on	cells.
+How	does	stress	work?
+These	days,	people	live	at	a	frantic	pace	and	in	a	nearly	constant	state	of
+competition.	At	this	fever	pitch,	stress	is	a	natural	
+response	to	the	information
+being	received	by	the	body	as	potentially	dangerous	or	problematic.
+Theoretically,	this	is	a	useful	reaction,	as	it	helps	us	survive	in	hostile
+surroundings.	Over	the	course	of	our	evolution,	we	have	used	this	response	tosurroundings.	Over	the	course	of	our	evolution,	we	have	used	this	response	to
+deal	with	difficult	situations	and	to	flee	from	predators.
+The	alarm	that	goes	off	in	our	head	makes	our	neurons	activate	the	pituitary
+gland,	which	produces	hormones	that	release	corticotropin,	which	in	turn
+circulates	through	the	body	via	the	sympathetic	nervous	system.	The	adrenal
+gland	is	then	triggered	to	release	adrenaline	and	cortisol.	Adrenaline	raises	our
+respiratory	rate	and	pulse	and	prepares	our	muscles	for	action,	getting	the	body
+ready	to	react	to	perceived	danger,	while	cortisol	increases	the	release	of
+dopamine	and	blood	glucose,	which	is	what	gets	us	“charged	up”	and	allows	us	to
+face	challenges.
+Cave	Dwellers
+Modern	Humans
+Were	relaxed	most	of	the	time.
+Work	most	of	the	time	and	are	alert	to	any	and	all	threats.
+Felt	stress	only	in	very	specific
+situations.
+Are	online	or	waiting	for	notifications	from	their	cell	phones	twenty-four	hours	a
+day.
+The	threats	were	real:	A	predator	could
+end	their	lives	at	any	moment.
+The	brain	associates	the	ping	of	a	cell	phone	or	an	e-mail	notification	with	the
+threat	of	a	predator.
+High	doses	of	cortisol	and	adrenaline	at
+moments	of	danger	kept	the	body
+healthy.
+Low	doses	of	cortisol	flow	constantly	through	the	body,	with	implications	for	a
+range	of	health	problems,	including	adrenal	fatigue	and	chronic	fatigue
+syndrome.
+These	processes	are,	in	moderation,	beneficial—they	help	us	overcome
+challenges	in	our	daily	lives.	Nonetheless,	the	stress	to	which	human	beings	are
+subjected	today	is	clearly	harmful.
+Stress	has	a	degenerative	effect	over	time.	A	sustained	state	of	emergency
+affects	the	neurons	associated	with	memory,	as	well	as	inhibiting	the	release	of
+certain	hormones,	the	absence	of	which	can	cause	depression.	Its	secondary
+effects	include	irritability,	insomnia,	anxiety,	and	high	blood	pressure.
+As	such,	though	challenges	are	good	for	keeping	mind	and	body	active,	we
+should	adjust	our	high-stress	lifestyles	in	order	to	avoid	the	premature	aging	of
+our	bodies.
+Be	mindful	about	reducing	stress
+Whether	or	not	the	threats	we	perceive	are	real,	stress	is	an	easily	identifiable
+condition	that	not	only	causes	anxiety	but	is	also	highly	psychosomatic,	affecting
+everything	from	our	digestive	system	to	our	skin.This	is	why	prevention	is	so	important	in	avoiding	the	toll	that	stress	takes	on
+us—and	why	many	experts	recommend	practicing	mindfulness.
+The	central	premise	of	this	stress-reduction	method	is	focusing	on	the	self:
+noticing	our	responses,	even	if	they	are	conditioned	by	habit,	in	order	to	be	fully
+conscious	of	them.	In	this	way,	we	connect	with	the	here	and	now	and	limit
+thoughts	that	tend	to	spiral	out	of	control.
+“We	have	to	learn	to	turn	off	the	autopilot	that’s	steering	us	in	an	endless	loop.
+We	all	know	people	who	snack	while	talking	on	the	phone	or	watching	the	news.
+You	ask	them	if	the	omelet	they	just	ate	had	onion	in	it,	and	they	can’t	tell	you,”
+says	Roberto	Alcibar,	who	abandoned	his	fast-paced	life	to	become	a	certified
+instructor	of	mindfulness	after	an	illness	threw	him	into	a	period	of	acute	stress.
+One	way	to	reach	a	state	of	mindfulness	is	through	meditation,	which	helps
+filter	the	information	that	reaches	us	from	the	outside	world.	It	can	also	be
+achieved	through	breathing	exercises,	yoga,	and	body	scans.
+Achieving	mindfulness	involves	a	gradual	process	of	training,	but	with	a	bit	of
+practice	we	can	learn	to	focus	our	mind	completely,	which	reduces	stress	and
+helps	us	live	longer.
+A	little	stress	is	good	for	you
+While	sustained,	intense	stress	is	a	known	enemy	of	longevity	and	both	mental
+and	physical	health,	low	levels	of	stress	have	been	shown	to	be	beneficial.
+After	observing	a	group	of	test	subjects	for	more	than	twenty	years,	Dr.
+Howard	S.	Friedman,	a	psychology	professor	at	the	University	of	California,
+Riverside,	discovered	that	people	who	maintained	a	low	level	of	stress,	who	faced
+challenges	and	put	their	heart	and	soul	into	their	work	in	order	to	succeed,	lived
+longer	than	those	who	chose	a	more	relaxed	lifestyle	and	retired	earlier.	From
+this,	he	concluded	that	a	small	dose	of	stress	is	a	positive	thing,	as	those	who	live
+with	low	levels	of	stress	tend	to	develop	healthier	habits,	smoke	less,	and	drink
+less	alcohol.
+2
+Given	this,	it	is	not	surprising	that	many	of	the	supercentenarians—people
+who	live	to	be	110	or	more—whom	we’ll	meet	in	this	book	talk	about	having
+lived	intense	lives	and	working	well	into	old	age.
+A	lot	of	sitting	will	age	youIn	the	Western	world	in	particular,	the	rise	in	sedentary	behavior	has	led	to
+numerous	diseases	such	as	hypertension	and	obesity,	which	in	turn	affect
+longevity.
+Spending	too	much	time	seated	at	work	or	at	home	not	only	reduces	muscular
+and	respiratory	fitness	but	also	increases	appetite	and	curbs	the	desire	to
+participate	in	activities.	Being	sedentary	can	lead	to	hypertension,	imbalanced
+eating,	cardiovascular	disease,	osteoporosis,	and	even	certain	kinds	of	cancer.
+Recent	studies	have	shown	a	connection	between	a	lack	of	physical	activity	and
+the	progressive	distortion	of	telomeres	in	the	immune	system,	which	ages	those
+cells	and,	in	turn,	the	organism	as	a	whole.
+This	is	a	problem	at	all	life	stages,	not	only	among	adults.	Sedentary	children
+suffer	from	high	rates	of	obesity	and	all	its	associated	health	issues	and	risks,
+which	is	why	it’s	so	important	to	develop	a	healthy	and	active	lifestyle	at	an	early
+age.
+It’s	easy	to	be	less	sedentary;	it	just	takes	a	bit	of	effort	and	a	few	changes	to
+your	routine.	We	can	access	a	more	active	lifestyle	that	makes	us	feel	better
+inside	and	out—we	just	have	to	add	a	few	ingredients	to	our	everyday	habits:
+Walk	to	work,	or	just	go	on	a	walk
+	for	at	least	twenty	minutes	each	day.
+Use	your	feet	instead	of	an	elevator	or	escalator.
+	This	is	good	for	your
+posture,	your	muscles,	and	your	respiratory	system,	among	other	things.
+Participate	in	social	or	leisure	activities
+	so	that	you	don’t	spend	too	much	time
+in	front	of	the	television.
+Replace	your	junk	food	with	fruit
+	and	you’ll	have	less	of	an	urge	to	snack,
+and	more	nutrients	in	your	system.
+Get	the	right	amount	of	sleep.
+	Seven	to	nine	hours	is	good,	but	any	more	than
+that	makes	us	lethargic.
+Play	with	children	or	pets,	or	join	a	sports	team.
+	This	not	only	strengthens	the
+body	but	also	stimulates	the	mind	and	boosts	self-esteem.
+Be	conscious	of	your	daily	routine
+	in	order	to	detect	harmful	habits	and
+replace	them	with	more	positive	ones.
+By	making	these	small	changes,	we	can	begin	to	renew	our	bodies	and	minds
+and	increase	our	life	expectancy.
+A	model’s	best-kept	secretA	model’s	best-kept	secret
+Though	we	age	both	externally	and	internally,	both	physically	and	mentally,	one
+of	the	things	that	tell	us	the	most	about	people’s	age	is	their	skin,	which	takes	on
+different	textures	and	colors	according	to	processes	going	on	beneath	the	surface.
+Most	of	those	who	make	their	living	as	models	claim	to	sleep	between	nine	and
+ten	hours	the	night	before	a	fashion	show.	This	gives	their	skin	a	taut,	wrinkle-
+free	appearance	and	a	healthy,	radiant	glow.
+Science	has	shown	that	sleep	is	a	key	antiaging	tool,	because	when	we	sleep
+we	generate	melatonin,	a	hormone	that	
+occurs	naturally	in	our	bodies.	The	pineal
+gland	produces	it	from	the	neurotransmitter	serotonin	according	to	our	diurnal
+and	nocturnal	rhythms,	and	it	plays	a	role	in	our	sleep	and	waking	cycles.
+A	powerful	antioxidant,	melatonin	helps	us	live	longer,	and	also	offers	the
+following	benefits:
+It	strengthens	the	immune	system.
+It	contains	an	element	that	protects	against	cancer.
+It	promotes	the	natural	production	of	insulin.
+It	slows	the	onset	of	Alzheimer’s	disease.
+It	helps	prevent	osteoporosis	and	fight	heart	disease.
+For	all	these	reasons,	melatonin	is	a	great	ally	in	preserving	youth.	It	should	be
+noted,	however,	that	melatonin	production	decreases	after	age	thirty.	We	can
+compensate	for	this	by:
+Eating	a	balanced	diet	and	getting	more	calcium.
+Soaking	up	a	moderate	amount	of	sun	each	day.
+Getting	enough	sleep.
+Avoiding	stress,	alcohol,	tobacco,	and	caffeine,	all	of	which	make	it	harder
+to	get	a	good	night’s	rest,	depriving	us	of	the	melatonin	we	need.
+Experts	are	trying	to	determine	whether	artificially	stimulating	production	of
+melatonin	might	help	slow	the	aging	process	.	.	.	which	would	confirm	the	theory
+that	we	already	carry	the	secret	to	longevity	within	us.
+Antiaging	attitudesThe	mind	has	tremendous	power	over	the	body	and	how	quickly	it	ages.	Most
+doctors	agree	that	the	secret	to	keeping	the	body	young	is	keeping	the	mind	active
+—a	key	element	of	
+ikigai
+—and	in	not	caving	in	when	we	face	difficulties
+throughout	our	lives.
+One	study,	conducted	at	Yeshiva	University,	found	that	the	people	who	live
+the	longest	have	two	dispositional	traits	in	common:	a	
+positive	attitude
+	and	a	high
+degree	of	
+emotional	awareness
+.	In	other	words,	those	who	face	challenges	with	a
+positive	outlook	and	are	able	to	manage	their	emotions	are	already	well	on	their
+way	toward	longevity.
+A	
+stoic	attitude
+—serenity	in	the	face	of	a	setback—can	also	help	keep	you
+young,	as	it	lowers	anxiety	and	stress	levels	and	stabilizes	behavior.	This	can	be
+seen	in	the	greater	life	expectancies	of	certain	cultures	with	unhurried,	deliberate
+lifestyles.
+Many	centenarians	and	supercentenarians	have	similar	
+profiles:	They	have	had
+full	lives	that	were	difficult	at	times,	but	they	knew	how	to	approach	these
+challenges	with	a	positive	attitude	and	not	be	overwhelmed	by	the	obstacles	they
+faced.
+Alexander	Imich,	who	in	2014	became	the	world’s	oldest	living	man	at	age
+111,	knew	he	had	good	genes	but	understood	that	other	factors	contributed,	too:
+“The	life	you	live	is	equally	or	more	important	for	longevity,”	he	said	in	an
+interview	with	Reuters	after	being	added	to	
+Guinness	World	Records	
+in	2014.
+An	ode	to	longevity
+During	our	stay	in	Ogimi,	the	village	that	holds	the	Guinness	record	for	longevity,
+a	woman	who	was	about	to	turn	100	years	old	sang	the	following	song	for	us	in	a
+mixture	of	Japanese	and	the	local	dialect:
+To	keep	healthy	and	have	a	long	life,
+eat	just	a	little	of	everything	with	relish,
+go	to	bed	early,	get	up	early,	and	then	go	out	for	a	walk.
+We	live	each	day	with	serenity	and	we	enjoy	the	journey.
+To	keep	healthy	and	have	a	long	life,
+we	get	on	well	with	all	of	our	friends.
+Spring,	summer,	fall,	winter,
+we	happily	enjoy	all	the	seasons.
+The	secret	is	to	not	get	distracted	by	how	old	the	fingers	are;The	secret	is	to	not	get	distracted	by	how	old	the	fingers	are;
+from	the	fingers	to	the	head	and	back	once	again.
+If	you	keep	moving	with	your	fingers	working,	100	years
+will	come	to	you.
+*
+We	can	now	use	our	fingers	to	turn	the	page	to	the	next	chapter,	where	we	will
+look	at	the	close	relationship	between	longevity	and	discovering	our	life’s
+mission.III
+FROM	LOGOTHERAPY	TO	
+IKIGAI
+How	to	live	longer	and	better	by
+finding	your	
+purposeWhat	is	logotherapy?
+A	colleague	once	asked	Viktor	Frankl	to	define	his	school	of	psychology	in	a
+single	phrase,	to	which	Frankl	replied,	“Well,	in	logotherapy	the	patient	sits	up
+straight	and	has	to	listen	to	things	that	are,	on	occasion,	hard	to	hear.”	The
+colleague	had	just	described	psychoanalysis	to	him	in	the	following	terms:	“In
+psychoanalysis,	the	patient	lies	down	on	a	couch	and	tells	you	things	that	are,	on
+occasion,	hard	to	say.”
+Frankl	explains	that	one	of	the	first	questions	he	would	ask	his	patients	was
+“Why	do	you	not	commit	suicide?”	Usually	the	patient	found	good	reasons	not	to,
+and	was	able	to	carry	on.	What,	then,	does	logotherapy	do?
+	
+1
+The	answer	is	pretty	clear:	
+It	helps	you	find	reasons	to	live.
+Logotherapy	pushes	patients	to	consciously	discover	their	life’s	purpose	in
+order	to	confront	their	neuroses.	Their	quest	to	fulfill	their	destiny	then	motivates
+them	to	press	forward,	breaking	the	mental	chains	of	the	past	and	overcoming
+whatever	obstacles	they	encounter	along	the	way.
+Something	to	Live	For
+A	study	conducted	by	Frankl	in	his	Vienna	clinic	found	that	among	both
+patients	and	personnel,	around	80	percent	believed	that	human	beings
+needed	a	reason	
+for	living,	and	around	60	percent	felt	they	had	someone
+or	something	in	their	lives	worth	dying	for.
+2
+The	search	for	meaning
+The	search	for	purpose	became	a	personal,	driving	force	that	allowed	Frankl	to
+achieve	his	goals.	The	process	of	logotherapy	can	be	summarized	in	these	five
+steps:1.	
+A	person	feels	empty,	frustrated,	or	anxious.
+2.	
+The	therapist	shows	him	that	what	he	is	feeling	is	the	desire	to	have	a
+meaningful	life.
+3.	
+The	patient	discovers	his	life’s	purpose	(at	that	particular	point	in	time).
+4.	
+Of	his	own	free	will,	the	patient	decides	to	accept	or	reject	that	destiny.
+5.	
+This	newfound	passion	for	life	helps	him	overcome	obstacles	and	sorrows.
+Frankl	himself	would	live	and	die	for	his	principles	and	ideals.	His
+experiences	as	a	prisoner	at	Auschwitz	showed	him	that	“Everything	can	be	taken
+from	a	man	but	one	thing:	the	last	of	the	human	freedoms—to	choose	one’s
+attitude	in	any	given	set	of	circumstances,	to	choose	one’s	own	way.”
+3
+	It	
+was
+something	he	had	to	go	through	alone,	without	any	help,	and	it	inspired	him	for
+the	rest	of	his	life.
+Ten	Differences	Between	Psychoanalysis	and	Logotherapy
+Psychoanalysis
+Logotherapy
+The	patient	reclines	on	a	couch,	like	a	patient.
+The	patient	sits	facing	the	therapist,	who	guides	him	or	her	without
+passing	judgment.
+Is	retrospective:	It	looks	to	the	past.
+Looks	toward	the	future.
+Is	introspective:	It	analyzes	neuroses.
+Does	not	delve	into	the	patient’s	neuroses.
+The	drive	is	toward	pleasure.
+The	drive	is	toward	purpose	and	meaning.
+Centers	on	psychology.
+Includes	a	spiritual	dimension.
+Works	on	psychogenic	neuroses.
+Also	works	on	noogenic,	or	existential,	neuroses.
+Analyzes	the	unconscious	origin	of	conflicts
+(instinctual	dimension).
+Deals	with	conflicts	when	and	where	they	arise	(spiritual
+dimension).
+Limits	itself	to	the	patient’s	instincts.
+Also	deals	with	spiritual	realities.
+Is	fundamentally	incompatible	with	faith.
+Is	compatible	with	faith.
+Seeks	to	reconcile	conflicts	and	satisfy	impulses	and
+instincts.
+Seeks	to	help	the	patient	find	meaning	in	his	life	and	satisfy	his
+moral	principles.
+Fight	for	yourself
+Existential	frustration	arises	when	our	life	is	without	purpose,	or	when	that
+purpose	is	skewed.	In	Frankl’s	view,	however,	there	is	no	need	to	see	this
+frustration	as	an	anomaly	or	a	symptom	of	neurosis;	instead,	it	can	be	a	positive
+thing—a	catalyst	for	change.thing—a	catalyst	for	change.
+Logotherapy	does	not	see	this	frustration	as	
+mental	illness
+,	the	way	other	forms
+of	therapy	do,	but	rather	as	
+spiritual	anguish—
+a	natural	and	beneficial
+phenomenon	that	drives	those	who	suffer	from	it	to	seek	a	cure,	whether	on	their
+own	or	with	the	help	of	others,	and	in	so	doing	to	find	greater	satisfaction	in	life.
+It	helps	them	change	their	own	destiny.
+Logotherapy	enters	the	picture	if	the	person	needs	help	doing	this,	if	he	needs
+guidance	in	discovering	his	life’s	purpose	and	later	in	overcoming	conflicts	so	he
+can	keep	moving	toward	his	objective.	In	
+Man’s	Search	for	Meaning
+,	Frankl	cites
+one	of	Nietzsche’s	famous	aphorisms:	“He	who	has	a	
+why
+	to	live	for	can	bear
+with	almost	any	
+how
+.”
+Based	on	his	own	experience,	Frankl	believed	that	our	health	depends	on	that
+natural	tension	that	comes	from	comparing	what	we’ve	accomplished	so	far	with
+what	we’d	like	to	achieve	in	the	future.	What	we	need,	then,	is	not	a	peaceful
+existence,	but	a	challenge	we	can	strive	to	meet	by	applying	all	the	skills	at	our
+disposal.
+Existential	crisis,	on	the	other	hand,	is	typical	of	modern	societies	in	which
+people	do	what	they	are	told	to	do,	or	what	others	do,	rather	than	what	they	want
+to	do.	They	often	try	to	fill	the	gap	between	what	is	expected	of	them	and	what
+they	want	for	themselves	with	economic	power	or	physical	pleasure,	or	by
+numbing	their	senses.	It	can	even	lead	to	suicide.
+Sunday	neurosis
+,	for	example,	is	what	happens	when,	without	the	obligations
+and	commitments	of	the	workweek,	the	individual	realizes	how	empty	he	is
+inside.	He	has	to	find	a	solution.	Above	all,	he	has	to	find	his	purpose,	his	reason
+for	getting	out	of	bed—his	
+ikigai
+.
+“I	Feel	Empty	Inside”
+In	a	study	conducted	at	the	Vienna	Polyclinic	Hospital,	Frankl’s	team
+found	that	55	percent	of	the	patients	they	interviewed	were	experiencing
+some	degree	of	existential	crisis.
